@@ -1,4 +1,6 @@
-#mynetbank
+------------------------------
+README FILE
+------------------------------
 
 This application contains two endpoints:
 
