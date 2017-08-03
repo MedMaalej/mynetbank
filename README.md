@@ -1,5 +1,5 @@
 ------------------------------
-README FILE
+MyNetBank
 ------------------------------
 
 This application contains two endpoints:
